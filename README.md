@@ -24,3 +24,5 @@
 
 <tr>
 </table>    
+##########################################################################################################################
+tumor_classifier_model.pth : https://drive.google.com/file/d/1qjxYY38cFgW8TH1PMdFU_gl6A93BiDO2/view?usp=sharing
