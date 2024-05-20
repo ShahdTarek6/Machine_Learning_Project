@@ -23,5 +23,5 @@
 
 ## Pre-trained Model
 
-**Tumor Classifier Model**: [Download Here](https://drive.google.com/file/d/1qjxYY38cFgW8TH1PMdFU_gl6A93BiDO2/view?usp=sharing)
-
+**Tumor Classifier Model : Resnet18**: [Download Here](https://drive.google.com/file/d/1qjxYY38cFgW8TH1PMdFU_gl6A93BiDO2/view?usp=sharing)
+**Tumor Classifier Model : efficentnet**: [Download Here](https://drive.google.com/drive/folders/1Y2cAiVP99qX3fP-hAW1gz3SSw_cmbSo0?usp=sharing)
