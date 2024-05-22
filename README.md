@@ -5,7 +5,7 @@ https://github.com/Ahmed-Wael-Adel/ML-Project
 
 <table class="tg">
   <tr>
-    <th class="tg-yw4l"><b>Filter No.</b></th>
+    <th class="tg-yw4l"><b>Model No.</b></th>
     <th class="tg-yw4l"><b>Name</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>GUI</b></th>
